@@ -1,0 +1,25 @@
+---
+name: "evolozzy"
+images:
+  banner:
+    filename: "evolozzy.jpg"
+  thumbnail:
+    filename: "evolozzy.jpg"
+sciences:
+  - biology
+streaming_platforms:
+  twitch: https://www.twitch.tv/evolozzy
+social_platforms:
+  instagram: https://www.instagram.com/evolozzy
+  twitch: https://www.twitch.tv/evolozzy
+  twitter: https://twitter.com/evolozzy
+  discord: https://discord.gg/5PG26Ha8JM
+  website: https://evolozzy.net
+  tiktok: https://www.tiktok.com/@evolozzy
+display_on_site: true
+include_links: true
+layout: educator
+---
+## About evolozzy
+
+evolozzy is an evolutionary biologist. In his streams, he talks about the environmental crisis, philosophical issues arouind biology, and evolutionary biology related to people's daily lives. If you have any questions, you can ask him from any platform, he will always happy to give you an answer or learn with you if he doesn't know the answer. 
